@@ -9,7 +9,7 @@ Feel free to follow along, and reach out so we can talk ML!
 
 ___
 
-## *The Learning Track*
+## *The Learning Track: Basics of ML with TensorFlow*
 
 The first step in gaining the ability to use tensor flow, and the cert. will be
 finishing tensor flow's curated learning pathway. Details below -> 
