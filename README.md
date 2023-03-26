@@ -3,7 +3,8 @@
 The purpose of this repository is to record my progress in training to earn a certification in TensorFlow. 
 I will be following the TensorFlow (and by extension udacity, oreilly, and coursera) curriculum to gain an
 understanding of machine learning and earn the google TensorFlow certification. I will also be creating my 
-own machine learning projects, and eventually, will integrate TensorFlow lite into an android application.
+own machine learning projects, and eventually, will find an application for integrating TensorFlow lite into 
+an android application.
 
 Feel free to follow along, and reach out so we can talk ML!
 
@@ -11,8 +12,8 @@ ___
 
 ## *The Learning Track: Basics of ML with TensorFlow*
 
-The first step in gaining the ability to use tensor flow, and the cert. will be
-finishing tensor flow's curated learning pathway. Details below -> 
+The first step in gaining the ability to use tensor flow, and gaining 
+the cert. will be finishing tensor flow's curated learning pathway.
 
 ### `"Step 1: Learning What ML is all About"`
 
